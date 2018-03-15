@@ -21,4 +21,5 @@
 |git checkout [branch]|切换分支
 |git branch|查看所有分支
 |git merge [branch]|合并指定分支到当前分支
+|git merge --no-ff -m ''|合并后的历史有分支
 |git branch -d [branch]|删除指定分支
