@@ -9,6 +9,8 @@
 |git reset --hard [commit id]|回到历史版本
 |git add [file]|添加到暂存区
 |git commit -m ''|commit
+|git tag [name]|给当前commit打标签
+|git show [tagname]|显式tag对应commit的信息
 ## 分布式
 |命令|功能
 |---|---
