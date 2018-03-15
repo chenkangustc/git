@@ -3,6 +3,7 @@
 |命令|功能
 |---|---
 |git log|查看commit id
+|git log --graph|可进一步看到分支图
 |git reflog|查看id简称
 |git reset --hard [commit id]|回到历史版本
 |git add [file]|添加到暂存区
