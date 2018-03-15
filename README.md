@@ -16,6 +16,8 @@
 ## branch
 |命令|功能
 |---|---
-|git branch [name]|创建分支
-|git checkout [name]|切换分支
+|git branch [branch]|创建分支
+|git checkout [branch]|切换分支
 |git branch|查看所有分支
+|git merge [branch]|合并指定分支到当前分支
+|git branch -d [branch]|删除指定分支
